@@ -26,6 +26,8 @@ After installing the dependencies, Collect the data ([CSV File](https://github.c
 
 Select the relevant features which will take part in helping the code recommending the movies to the User.
 
+NOTE: You can open the ipynb file and scroll down to find the code in one block 
+
 ## Contributing
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are greatly appreciated.
 
